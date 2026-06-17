@@ -54,12 +54,6 @@ A multi-layer ASP.NET Core MVC app built with clean architecture across 9 projec
 
 ---
 
-### 🐍 Contribution graph
-
-![Snake animation](https://github.com/LiquidIvo/LiquidIvo/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
